@@ -10,4 +10,4 @@ Files used It has README.md and bikeshare.py which I've done as a project.
 
 Credits It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
  https://help.github.com/en/articles/about-readmes
- 
+ https://help.github.com/en/articles/ignoring-files
